@@ -37,7 +37,7 @@ export const authOptions = {
           },
           update: {
             name: user.name,
-            auth_type: account.provider === "google" ? "Google" : "Github" 
+            auth_type: account.provider === "google" ? "Google" : "Github"
           }
         });
 
