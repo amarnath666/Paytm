@@ -65,7 +65,3 @@ enum OnRampStatus {
   Failure
   Processing
 }
-
-
-
-
